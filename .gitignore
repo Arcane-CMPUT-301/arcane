@@ -23,6 +23,13 @@
 hs_err_pid*
 replay_pid*
 
-# Android file
-*.idea
-*gradle.build.gradle.kts
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+local.properties
