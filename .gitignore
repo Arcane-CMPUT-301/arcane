@@ -28,7 +28,8 @@ replay_pid*
 *.iml
 
 # Gradle
-.gradle/
+**/.gradle/
+**/build/
 
 # Local configuration
-local.properties
+**/local.properties
