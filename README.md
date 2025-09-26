@@ -1,2 +1,3 @@
 # arcane
-This is our first team repo
+ccid: ohri1
+student_number: 1783108
